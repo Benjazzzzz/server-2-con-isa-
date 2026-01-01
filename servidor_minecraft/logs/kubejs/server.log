@@ -1,0 +1,112 @@
+[16:10:22] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[16:10:22] [INIT] Loaded plugins:
+[16:10:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:10:22] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[16:10:22] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[16:10:24] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[16:10:24] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_evo_reds_alienpack:kubejs_scripts/palladium_properties.js in 0.001 s
+[16:10:24] [INFO] addonpack_reds_things:kubejs_scripts/slam.js#3: Loaded Java class 'net.minecraft.core.particles.DustParticleOptions'
+[16:10:24] [INFO] addonpack_reds_things:kubejs_scripts/slam.js#4: Loaded Java class 'org.joml.Vector3f'
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/slam.js in 0.004 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/hit_cascan.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/hotdogdnascanitem.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/ride_ult_wildmut.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/remove_auto_upgrade.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/husk_hit_detection.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_recal_compeleted.js in 0.003 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/test_simple.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/alienspawn_command.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/recalgamerule_command.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_reboot.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/remove_command.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/surgednascanitem.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/hit.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/alien_beacon.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/screwdriver_item.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_recal_noncustom.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/failsafe_recal.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/ulti_random_timeout.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_reds_things:kubejs_scripts/ult_failesafe.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/ignore_dmg.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/vial.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/xylene.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/upchuck_mechanics.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_omni_extras:kubejs_scripts/tagremoval.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/fall.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/server_stuff.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_commands.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.017 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ride.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/slam.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/recipes.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.002 s
+[16:10:24] [INFO] addonpack_alienevo:kubejs_scripts/attributes.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.Attributes'
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/attributes.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.006 s
+[16:10:24] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#101: Loaded Java class 'net.minecraft.world.entity.LivingEntity'
+[16:10:24] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#102: Loaded Java class 'net.minecraft.world.entity.decoration.ArmorStand'
+[16:10:24] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#103: Loaded Java class 'net.minecraft.world.entity.projectile.Projectile'
+[16:10:24] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#145: Loaded Java class 'net.minecraft.resources.ResourceKey'
+[16:10:24] [INFO] addonpack_alienevo:kubejs_scripts/hit.js#146: Loaded Java class 'net.minecraft.tags.TagKey'
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.013 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nickname_command.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/tremorzilla_beam.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_nosedeenian_aliens:kubejs_scripts/entitiy_dmg.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_nosedeenian_aliens:kubejs_scripts/entitiy_dmg2.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_nosedeenian_aliens:kubejs_scripts/ability.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/remove_player.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/fix_ride_bug.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/ore_detect.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/separate.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_chrono_machina:kubejs_scripts/upgrade.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/randomizer_code_tablet.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/palladium_properties.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/airtime.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/extras_handler.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/core.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/sync_prototype_completed.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/randomizer.js in 0.005 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/failsafe.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/battery_timer.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/core_scrambler.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/batman.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_aeo:kubejs_scripts/cookingts.js in 0.002 s
+[16:10:24] [INFO] Loaded script addonpack_stretchakln:kubejs_scripts/obtainment.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_galvan:kubejs_scripts/upgrade_template.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
+[16:10:24] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.0 s
+[16:10:24] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate.js in 0.001 s
+[16:10:24] [INFO] Loaded 77/77 KubeJS server scripts in 0.127 s with 0 errors and 0 warnings
+[16:10:24] [INFO] Scripts loaded
+[16:10:24] [INFO] Initializing recipe event...
+[16:10:25] [INFO] [minecraft:block] Found 379 tags, added 17 objects, removed 0 objects
+[16:10:25] [INFO] [minecraft:item] Found 541 tags, added 5 objects, removed 0 objects
+[16:10:26] [INFO] Processing recipes...
+[16:10:26] [WARN] Failed to parse recipe 'unusual_furniture:spruce_bench_craft[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:10:26] [INFO] Found 3037 recipes in 103.5 ms
+[16:10:26] [INFO] Posted recipe events in 9.069 ms
+[16:10:26] [WARN] Error parsing recipe unusual_furniture:spruce_bench_craft[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","pattern":["a  ","aba","a a"],"key":{"a":{"item":"minecraft:spruce_planks"},"b":{"item":"minecraft:iron_ingot"}},"result":{"item":"unusual_furniture:industrial_bench","count":2}}: Unknown item 'unusual_furniture:industrial_bench'
+[16:10:26] [INFO] Added 27 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 74.90 ms
+[16:10:28] [INFO] Server resource reload complete!
+[16:10:32] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#66: [Omni-Evo] World loaded event triggered
+[16:10:32] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#71: [Omni-Evo] World loaded - GiveAFAliens is enabled, all players have been given the Recal.GiveAFAliens tag
+[16:10:32] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#82: [Omni-Evo] World loaded - RandomizeBugRecal is disabled, all players have been given the Recal.DisableRandomizeBugRecal tag
+[16:10:32] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#91: [Omni-Evo] Server tick initialization
+[16:10:32] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#94: [Omni-Evo] Server tick - GiveAFAliens is enabled, all players have been given the Recal.GiveAFAliens tag
+[16:10:32] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#101: [Omni-Evo] Server tick - RandomizeBugRecal is disabled, all players have been given the Recal.DisableRandomizeBugRecal tag
+[16:14:21] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#108: [Omni-Evo] Player literal{Benjiuj} joined
+[16:14:21] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#112: [Omni-Evo] Player literal{Benjiuj} joined - GiveAFAliens is enabled, player has been given the Recal.GiveAFAliens tag
+[16:14:21] [INFO] addonpack_reds_things:kubejs_scripts/recalgamerule_command.js#121: [Omni-Evo] Player literal{Benjiuj} joined - RandomizeBugRecal is disabled, player has been given the Recal.DisableRandomizeBugRecal tag

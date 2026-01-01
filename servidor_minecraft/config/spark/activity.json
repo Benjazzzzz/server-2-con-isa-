@@ -1,0 +1,92 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1767216008693,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/33tvJQ9U1K"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Benjiuj",
+      "uniqueId": "d92ca513-8ab0-3393-a4df-35886e044342"
+    },
+    "time": 1767164391378,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/aUu2PIPG6t"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Benjiuj",
+      "uniqueId": "d92ca513-8ab0-3393-a4df-35886e044342"
+    },
+    "time": 1767148959152,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hZSMQebRcj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Benjiuj",
+      "uniqueId": "d92ca513-8ab0-3393-a4df-35886e044342"
+    },
+    "time": 1767148784866,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fE4yX83Mhh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Benjiuj",
+      "uniqueId": "d92ca513-8ab0-3393-a4df-35886e044342"
+    },
+    "time": 1767076445762,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fgW6JZhxek"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Benjiuj",
+      "uniqueId": "d92ca513-8ab0-3393-a4df-35886e044342"
+    },
+    "time": 1766954548370,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Q3pRn2bygQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Benjiuj",
+      "uniqueId": "d92ca513-8ab0-3393-a4df-35886e044342"
+    },
+    "time": 1766943590017,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fk6ARotiCg"
+    }
+  }
+]

@@ -1,0 +1,267 @@
+{
+  "aeo:root": {
+    "criteria": {
+      "ticky": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "nosedeenian:yes": {
+    "criteria": {
+      "first_join": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "nosedeenian:buzzshock_root": {
+    "criteria": {
+      "tick": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "alienevo:alien_evolution": {
+    "criteria": {
+      "tick": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "omni_extras:root": {
+    "criteria": {
+      "tick": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "palladium:recipes/decorations/tailoring_bench": {
+    "criteria": {
+      "unlock_right_away": "2025-12-17 21:12:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-12-22 09:47:06 -0500",
+      "minecraft:cherry_grove": "2025-12-17 21:12:50 -0500",
+      "minecraft:sunflower_plains": "2025-12-19 00:51:43 -0500",
+      "minecraft:river": "2025-12-19 00:52:05 -0500",
+      "minecraft:dripstone_caves": "2025-12-19 00:30:28 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-12-22 09:47:02 -0500",
+      "minecraft:plains": "2025-12-17 21:32:14 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-12-17 21:13:16 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-12-17 21:13:16 -0500"
+    },
+    "done": true
+  },
+  "alienevo:craft_omnitrix": {
+    "criteria": {
+      "prototype_omnitrix_crafted": "2025-12-17 21:31:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-12-17 21:33:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-12-17 21:40:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-19 00:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-12-19 00:46:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-12-19 00:48:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-12-19 00:48:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-12-19 00:48:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-12-19 00:48:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-12-19 00:48:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-12-19 00:48:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-12-19 00:48:47 -0500"
+    },
+    "done": true
+  },
+  "stretchakln:tokustar": {
+    "criteria": {
+      "transform": "2025-12-19 00:49:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-12-19 00:51:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-12-19 00:52:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-12-19 01:04:13 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-12-19 01:04:13 -0500"
+    },
+    "done": true
+  },
+  "chrono_machina:root": {
+    "criteria": {
+      "tick": "2025-12-22 09:01:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-22 09:14:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-12-22 09:14:10 -0500"
+    },
+    "done": false
+  },
+  "alienevo:code_selfdestruct": {
+    "criteria": {
+      "code_mastercontrol": "2025-12-22 09:44:49 -0500"
+    },
+    "done": true
+  },
+  "alienevo:recipes/prototype_omnitrix": {
+    "criteria": {
+      "has_prototype_core": "2025-12-22 10:05:57 -0500"
+    },
+    "done": true
+  },
+  "alienevo:obtain_core": {
+    "criteria": {
+      "prototype_core": "2025-12-22 10:05:57 -0500"
+    },
+    "done": true
+  },
+  "chrono_machina:chronosapienunlock": {
+    "criteria": {
+      "obtainment": "2025-12-22 17:45:01 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
